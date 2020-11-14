@@ -7,7 +7,6 @@ import {
   SidebarMenu,
   SidebarLink,
   SidebarBtn,
-  SidebarBtnWrap,
   SidebarBtnLink,
 } from "./Sidebar.style";
 
