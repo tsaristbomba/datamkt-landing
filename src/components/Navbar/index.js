@@ -57,7 +57,7 @@ const Navbar = ({ toggleHome, handleMenu }) => {
               offset={-80}
               to="testimonial"
             >
-              Testimonials
+              Testimonial
             </NavLink>
           </NavItem>
           <NavItem>
