@@ -99,6 +99,7 @@ export const FormButton = styled.button`
   color: #fff;
   font-size: 20px;
   cursor: pointer;
+  font-weight: bold;
 
   &:hover {
     background: #33948a;
